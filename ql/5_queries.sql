@@ -1,7 +1,7 @@
--- ============================================================================
+
 -- Enterprise Data Warehouse: Analytical SQL Queries
 -- Database: edw_student_progression
--- ============================================================================
+
 
 USE edw_student_progression;
 
