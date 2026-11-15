@@ -53,9 +53,8 @@ CREATE TABLE Dim_Progression_Status (
     PRIMARY KEY (Status_Key)
 );
 
--- ----------------------------------------------------------------------------
 -- CENTRAL FACT TABLE (N-side of 1:N Relationships)
--- ----------------------------------------------------------------------------
+
 
 -- Fact: Academic Performance and Student Progression Tracking
 CREATE TABLE Fact_Student_Progression (
